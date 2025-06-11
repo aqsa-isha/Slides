@@ -1,0 +1,11 @@
+ID,Name,Age,Email,Date of Birth,Score
+1,John Doe,25,johndoe@example.com,1998-03-12,85
+2,Jane Smith,,janesmith@example.com,1992-07-04,90
+3,Bob,22,,1995-12-15,not a number
+4,Mary Johnson,30,mary.johnson@example.com,1990-05-22,80
+5,John Doe,25,johndoe@example.com,1998-03-12,85
+6,Alice White,not a number,alice.white@example.com,2000-09-10,95
+7,,35,michael@example.com,1988-11-25,77
+8,Chris Brown,32,not an email,1987-04-02,65
+9,Susan Taylor,28,susan.taylor@example.com,1994-01-30,100
+10,Jane Smith,,janesmith@example.com,1992-07-04,90
